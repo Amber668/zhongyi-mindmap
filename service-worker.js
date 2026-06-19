@@ -1,4 +1,4 @@
-const CACHE_NAME = "zy-app-cache-v3";
+const CACHE_NAME = "zy-app-cache-v4";
 const ASSETS = [
   "./",
   "./index.html",
@@ -21,7 +21,8 @@ const ASSETS = [
   "./maps/zyjdx/01-第一章-中药鉴定学的定义和任务.html",
   "./maps/zyjdx/02-第二章-中药鉴定学的发展史.html",
   "./maps/zyjdx/03-第三章-中药的产地采收加工与贮藏.html",
-  "./maps/zyjdx/04-第四章-中药的鉴定.html"
+  "./maps/zyjdx/04-第四章-中药的鉴定.html",
+  "./maps/zyjdx/05-第五章-根及根茎类中药.html"
 ];
 
 self.addEventListener("install", (event) => {
