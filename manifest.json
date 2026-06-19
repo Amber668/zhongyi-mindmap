@@ -1,0 +1,15 @@
+{
+  "name": "中医学专业教材思维导图",
+  "short_name": "中医导图",
+  "description": "中医学专业本科教材思维导图，离线可用",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f3ee",
+  "theme_color": "#8a5a2b",
+  "orientation": "any",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
