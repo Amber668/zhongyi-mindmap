@@ -1,8 +1,9 @@
-const CACHE_NAME = "zy-app-cache-v2";
+const CACHE_NAME = "zy-app-cache-v3";
 const ASSETS = [
   "./",
   "./index.html",
   "./zyjcll.html",
+  "./zyjdx.html",
   "./manifest.json",
   "./icons/icon-192.png",
   "./icons/icon-512.png",
@@ -16,7 +17,11 @@ const ASSETS = [
   "./maps/zyjcll/05-第六章-体质.html",
   "./maps/zyjcll/06-第七章-病因.html",
   "./maps/zyjcll/07-第八章-病机.html",
-  "./maps/zyjcll/08-第九章-养生与防治原则.html"
+  "./maps/zyjcll/08-第九章-养生与防治原则.html",
+  "./maps/zyjdx/01-第一章-中药鉴定学的定义和任务.html",
+  "./maps/zyjdx/02-第二章-中药鉴定学的发展史.html",
+  "./maps/zyjdx/03-第三章-中药的产地采收加工与贮藏.html",
+  "./maps/zyjdx/04-第四章-中药的鉴定.html"
 ];
 
 self.addEventListener("install", (event) => {

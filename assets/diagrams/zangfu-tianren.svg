@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 410">
+  <rect width="400" height="410" fill="#fdfaf3"/>
+  <text x="200" y="20" text-anchor="middle" font-family="Microsoft YaHei,sans-serif" font-size="18" font-weight="bold" fill="#5a3e2b">五脏天人相应图</text>
+
+  <!-- compass labels -->
+  <text x="200" y="52" text-anchor="middle" font-family="Microsoft YaHei,sans-serif" font-size="15" fill="#888">南</text>
+  <text x="200" y="402" text-anchor="middle" font-family="Microsoft YaHei,sans-serif" font-size="15" fill="#888">北</text>
+  <text x="22" y="215" text-anchor="middle" font-family="Microsoft YaHei,sans-serif" font-size="15" fill="#888">东</text>
+  <text x="378" y="215" text-anchor="middle" font-family="Microsoft YaHei,sans-serif" font-size="15" fill="#888">西</text>
+
+  <!-- connecting lines (center to four) -->
+  <g stroke="#c9b89a" stroke-width="2">
+    <line x1="200" y1="210" x2="200" y2="90"/>
+    <line x1="200" y1="210" x2="200" y2="330"/>
+    <line x1="200" y1="210" x2="80" y2="210"/>
+    <line x1="200" y1="210" x2="320" y2="210"/>
+  </g>
+
+  <g font-family="Microsoft YaHei,sans-serif" text-anchor="middle">
+    <!-- 心 -->
+    <circle cx="200" cy="90" r="34" fill="#c0392b"/>
+    <text x="200" y="100" font-size="22" font-weight="bold" fill="#fff">心</text>
+    <text x="200" y="142" font-size="13" fill="#5a3e2b">火・夏</text>
+
+    <!-- 肾 -->
+    <circle cx="200" cy="330" r="34" fill="#2c5f8a"/>
+    <text x="200" y="340" font-size="22" font-weight="bold" fill="#fff">肾</text>
+    <text x="200" y="290" font-size="13" fill="#5a3e2b">水・冬</text>
+
+    <!-- 肝 -->
+    <circle cx="80" cy="210" r="34" fill="#4a8c3f"/>
+    <text x="80" y="220" font-size="22" font-weight="bold" fill="#fff">肝</text>
+    <text x="80" y="262" font-size="13" fill="#5a3e2b">木・春</text>
+
+    <!-- 肺 -->
+    <circle cx="320" cy="210" r="34" fill="#b8975c"/>
+    <text x="320" y="220" font-size="22" font-weight="bold" fill="#fff">肺</text>
+    <text x="320" y="262" font-size="13" fill="#5a3e2b">金・秋</text>
+
+    <!-- 脾 中央 -->
+    <circle cx="200" cy="210" r="38" fill="#c98a3b"/>
+    <text x="200" y="220" font-size="22" font-weight="bold" fill="#fff">脾</text>
+    <text x="200" y="266" font-size="13" fill="#5a3e2b">土・长夏</text>
+  </g>
+</svg>

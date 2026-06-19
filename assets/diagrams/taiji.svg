@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 270">
+  <rect width="220" height="270" fill="#fdfaf3"/>
+  <text x="110" y="22" text-anchor="middle" font-family="Microsoft YaHei,sans-serif" font-size="17" font-weight="bold" fill="#5a3e2b">阴阳太极图</text>
+  <g transform="translate(20,34)">
+    <circle cx="90" cy="90" r="88" fill="#f5f0e6" stroke="#8a5a2b" stroke-width="3"/>
+    <path d="M90,2 a88,88 0 0,1 0,176 a44,44 0 0,1 0,-88 a44,44 0 0,0 0,-88 z" fill="#3a3a3a"/>
+    <circle cx="90" cy="46" r="14" fill="#f5f0e6"/>
+    <circle cx="90" cy="134" r="14" fill="#3a3a3a"/>
+  </g>
+  <text x="110" y="250" text-anchor="middle" font-family="Microsoft YaHei,sans-serif" font-size="13" fill="#5a3e2b">白为阳，黑为阴；阳中有阴，阴中有阳</text>
+</svg>
