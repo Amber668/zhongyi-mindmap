@@ -1,4 +1,4 @@
-const CACHE_NAME = "zy-app-cache-v9";
+const CACHE_NAME = "zy-app-cache-v10";
 const ASSETS = [
   "./",
   "./index.html",
@@ -27,7 +27,8 @@ const ASSETS = [
   "./maps/zyjdx/07-第七章-皮类中药.html",
   "./maps/zyjdx/08-第八章-叶类中药.html",
   "./maps/zyjdx/09-第九章-花类中药.html",
-  "./maps/zyjdx/10-第十章-果实及种子类中药.html"
+  "./maps/zyjdx/10-第十章-果实及种子类中药.html",
+  "./maps/zyjdx/11-第十一章-全草类中药.html"
 ];
 
 self.addEventListener("install", (event) => {
